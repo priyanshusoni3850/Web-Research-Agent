@@ -81,9 +81,7 @@ Celery background worker
 Access API at: http://localhost:8000/docs
 
 📂 Full Project Directory Structure
-arduino
-Copy
-Edit
+```bash
 web_research_agent/
 ├── app/
 │   ├── agents/
@@ -112,6 +110,8 @@ web_research_agent/
 ├── README.md
 ├── .env
 └── .dockerignore
+
+```
 📜 Features
 🌍 Google Search API + News scraping
 
