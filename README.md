@@ -11,13 +11,13 @@ Get complete research reports with a single API call!
 
 👉 Copy and paste this in your  CMD ONLY:
 
-
+```bash
 curl -X POST https://web-research-agent-tlkb.onrender.com/agent/ -H "Content-Type: application/json" -d "{\"query\": \"impact of AI in healthcare industry in 2025\"}"
-
+```
 ✅ You will receive a full JSON response with web results, news, summary, and key entities!
 
 
-```bash
+
 ✏️ How to Change Query
 Just change inside "query": "..."
 
@@ -26,9 +26,9 @@ Example for a different topic:
 bash
 Copy
 Edit
-
+```bash
 curl -X POST https://web-research-agent-tlkb.onrender.com/agent/ -H "Content-Type: application/json" -d "{\"query\": \"future of renewable energy in 2030\"}"
-
+```
 🛠️ Full Project Setup Locally (Copy Paste This)
 bash
 Copy
