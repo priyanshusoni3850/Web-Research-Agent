@@ -9,19 +9,15 @@ Get complete research reports with a single API call!
 ## 🚀 Live Demo Link
 **Use without installing anything!**
 
-👉 [https://web-research-agent-tlkb.onrender.com](https://web-research-agent-tlkb.onrender.com)
+👉 Copy and paste this in your  CMD ONLY:
 
----
 
-## 🧪 How to Test Quickly (No Install)
-
-Copy and paste this in your  CMD ONLY:
-
-```bash
 curl -X POST https://web-research-agent-tlkb.onrender.com/agent/ -H "Content-Type: application/json" -d "{\"query\": \"impact of AI in healthcare industry in 2025\"}"
 
 ✅ You will receive a full JSON response with web results, news, summary, and key entities!
 
+
+```bash
 ✏️ How to Change Query
 Just change inside "query": "..."
 
