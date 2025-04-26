@@ -157,7 +157,3 @@ Edit
 | Full local + docker setup explained | ✔️ |
 
 ---
-
-Would you also like me to now prepare a **perfect GitHub `repository description`, `topics` and `tags`** setup so it looks 10x more professional? 🚀  
-Shall I continue? 🔥  
-(Will take just 1 min extra!)  ✅
